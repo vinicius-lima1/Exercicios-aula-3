@@ -1,0 +1,13 @@
+  void main() {
+  var valorDaEntrada = 15;
+  var numeroDePessoas = 4;
+  
+  int valorTotal = valorDaEntrada * numeroDePessoas;    
+ 
+  print("Valor de entrada: $valorDaEntrada R\$");
+  print("Numero de pessoas:  $numeroDePessoas ");
+  print("Valor total: $valorTotal R\$");
+  
+  
+  
+}
